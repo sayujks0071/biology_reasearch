@@ -84,3 +84,9 @@ If you use this framework or code in your research, please cite:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📝 Structured Research Summary
+
+For a unified overview of the research project, including Abstract, Theory, Methods, Results, and Figures in a single document, see:
+- [**STRUCTURED_RESEARCH_REPORT.md**](./STRUCTURED_RESEARCH_REPORT.md)
+- [**UNIFIED_MANUSCRIPT.tex**](./UNIFIED_MANUSCRIPT.tex) (Complete LaTeX source)
